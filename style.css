@@ -1,0 +1,10 @@
+*{
+ 
+    box-sizing: border-box;
+}
+.paragraf{
+    position: relative;
+    left: 50px;
+    top: 50px;
+
+}
